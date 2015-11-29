@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuckSlaughter", "DuckSlaughter\DuckSlaughter.csproj", "{98A5708F-6146-435A-BCDF-1FF011F98A9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98A5708F-6146-435A-BCDF-1FF011F98A9F}.Debug|x86.ActiveCfg = Debug|x86
+		{98A5708F-6146-435A-BCDF-1FF011F98A9F}.Debug|x86.Build.0 = Debug|x86
+		{98A5708F-6146-435A-BCDF-1FF011F98A9F}.Release|x86.ActiveCfg = Release|x86
+		{98A5708F-6146-435A-BCDF-1FF011F98A9F}.Release|x86.Build.0 = Release|x86
+		{2D10F7A4-E92C-4BF3-8398-F07F0EB30155}.Debug|x86.ActiveCfg = Debug|x86
+		{2D10F7A4-E92C-4BF3-8398-F07F0EB30155}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
